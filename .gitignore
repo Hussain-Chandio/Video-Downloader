@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+downloads/
+*.session
+.env
+secrets/
+*.sqlite3
+.vscode/
+.ipynb_checkpoints/
+
