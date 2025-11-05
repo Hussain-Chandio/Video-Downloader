@@ -1,5 +1,4 @@
-aiogram>=3.0
+python-telegram-bot==20.8
 yt-dlp
 mutagen
 ffmpeg-python
-
